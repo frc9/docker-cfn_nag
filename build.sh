@@ -2,7 +2,7 @@
 
 set -e
 
-DOCKER_IMAGE_NAME=raniemi/cfn_nag
+DOCKER_IMAGE_NAME=frc9/cfn_nag
 
 : "${VERSION:?Need to set VERSION}"
 

@@ -1,6 +1,6 @@
 # docker-cfn_nag
 
-This is the repository of the `raniemi/cfn_nag` docker image found in Docker Hub.
+This is the repository of the `raniemi/cfn_nag` docker image found in Docker Hub. Latest supported version is 0.3.56.
 
 # Prerequisites
 
